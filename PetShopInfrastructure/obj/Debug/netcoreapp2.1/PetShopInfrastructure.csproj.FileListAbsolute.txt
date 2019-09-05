@@ -1,0 +1,14 @@
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShopInfrastructure.deps.json
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShopInfrastructure.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShopInfrastructure.pdb
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.pdb
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\bin\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.csprojAssemblyReference.cache
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.AssemblyInfoInputs.cache
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.AssemblyInfo.cs
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.csproj.CopyComplete
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShopInfrastructure\obj\Debug\netcoreapp2.1\PetShopInfrastructure.pdb

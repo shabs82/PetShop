@@ -1,0 +1,12 @@
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.deps.json
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.pdb
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\bin\Debug\netcoreapp2.1\PetShop.Core.Entity.pdb
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csprojAssemblyReference.cache
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.AssemblyInfo.cs
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.csproj.CopyComplete
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.dll
+C:\Users\kulsoom-Abbas\Desktop\Uni Coursework\3rd Semester\PetShop\PetShop.Core\obj\Debug\netcoreapp2.1\PetShop.Core.pdb
